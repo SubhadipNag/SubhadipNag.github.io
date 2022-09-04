@@ -88,9 +88,10 @@ h6 {
 }
 
 #header h2 span {
-  color: #fff;
+  color: rgb(13, 237, 62);
   border-bottom: 2px solid #18d26e;
   padding-bottom: 6px;
+  font-weight: ;
 }
 
 #header img {
