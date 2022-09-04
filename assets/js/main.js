@@ -1,4 +1,5 @@
 
+
 (function () {
   "use strict";
 
@@ -217,9 +218,8 @@
 
 })()
 
-
-
 // Typing effect
+
 const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
